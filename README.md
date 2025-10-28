@@ -7,4 +7,4 @@
 - **DeepStream + TAO 미세조정/최적화** (`courses/03.deepstream_fine-tuning`)
 - **Modern CUDA C++ (Thrust/Streams/Memory)** (`courses/04.modern_cuda_cpp`)
 - **Cybersecurity Pipelines (Morpheus)** (`courses/05.cybersecurity_pipelines`)
-- **CUDA Python (Morpheus)** (`courses/06.cuda_python`)
+- **CUDA Python** (`courses/06.cuda_python`)
